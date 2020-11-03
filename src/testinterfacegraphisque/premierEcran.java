@@ -19,6 +19,8 @@ public class premierEcran extends javax.swing.JFrame {
     public premierEcran(Partie p) {
         lapartie = p ;
         initComponents();
+        System.out.println("hello");
+        
     }
 
     /**
@@ -63,7 +65,7 @@ public class premierEcran extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(124, 124, 124)
                 .addComponent(boutonBonjour)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 124, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 237, Short.MAX_VALUE)
                 .addComponent(boutonBonsoir)
                 .addGap(107, 107, 107))
             .addGroup(layout.createSequentialGroup()
@@ -83,7 +85,7 @@ public class premierEcran extends javax.swing.JFrame {
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addGap(66, 66, 66)
                 .addComponent(jLabel1)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 107, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 229, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(boutonBonjour)
                     .addComponent(boutonBonsoir))
