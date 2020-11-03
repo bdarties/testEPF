@@ -11,4 +11,7 @@ package testinterfacegraphisque;
  */
 public class java {
     
+    int b() {
+        return 0;
+    }
 }
