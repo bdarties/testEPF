@@ -11,7 +11,7 @@ package testinterfacegraphisque;
  */
 public class java {
     
-    int a() {
+    int b() {
         return 0;
     }
 }
