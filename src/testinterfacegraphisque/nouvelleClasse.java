@@ -10,5 +10,6 @@ package testinterfacegraphisque;
  * @author benoit
  */
 public class nouvelleClasse {
+    // toujours un commentaire de l'utilisateur 1 
     
 }

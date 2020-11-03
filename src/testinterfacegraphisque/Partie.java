@@ -11,4 +11,5 @@ package testinterfacegraphisque;
  */
 public class Partie {
     
+    // hello un commentaire de l'utilisateur 1 
 }
