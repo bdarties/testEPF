@@ -12,4 +12,6 @@ package testinterfacegraphisque;
 public class nouvelleClasse {
     // toujours un commentaire de l'utilisateur 1 
     
+    // test de commentaire 
+    
 }
